@@ -418,7 +418,7 @@ About Section
 ==================================================*/
 
 #about::after{
-  content: "Sneshkov.ml";
+  content: "Snezhkov.ml";
   color: #f9f9f9;
   font-family: Open Sans;
   font-size: 130px;
@@ -452,7 +452,7 @@ Works Section
 ==================================================*/
 
 #works{
-  background: linear-gradient(to right, rgba(0,0,0, .8) , rgba(0,0,0, .8)), url("https://Sheshkov.ml/media/model/work.jpg") no-repeat;
+  background: linear-gradient(to right, rgba(0,0,0, .8) , rgba(0,0,0, .8)), url("https://Snezhkov.ml.ml/media/model/work.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -631,7 +631,7 @@ Events Section
 ==================================================*/
 
 #events::after{
-  content: "Sheshkov.ml";
+  content: "Snezhkov.ml";
   color: #f9f9f9;
   font-family: Open Sans;
   font-size: 130px;
@@ -670,7 +670,7 @@ Contact Section
 ==================================================*/
 
 #contact{
-  background: linear-gradient(rgba(0, 0, 0, 0.94), rgba(0, 0, 0, 0.94)), url("https://Sheshkov.ml/media/model/contact-bg.jpg") no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.94), rgba(0, 0, 0, 0.94)), url("https://Snezhkov.ml.ml/media/model/contact-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
